@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calendar-plannig/static/css/main.e6c13ad2.css",
+    "main.js": "/calendar-plannig/static/js/main.8c48efbe.js",
+    "static/js/787.65f193ee.chunk.js": "/calendar-plannig/static/js/787.65f193ee.chunk.js",
+    "index.html": "/calendar-plannig/index.html",
+    "main.e6c13ad2.css.map": "/calendar-plannig/static/css/main.e6c13ad2.css.map",
+    "main.8c48efbe.js.map": "/calendar-plannig/static/js/main.8c48efbe.js.map",
+    "787.65f193ee.chunk.js.map": "/calendar-plannig/static/js/787.65f193ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8c48efbe.js"
+  ]
+}
