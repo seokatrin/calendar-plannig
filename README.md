@@ -1,3 +1,5 @@
+Ссылка на приложение: https://seokatrin.github.io/calendar-plannig/
+
 Календарь планирования
 
 Написан на React
